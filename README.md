@@ -13,4 +13,5 @@ Bot from 2017 will not be live because of end of free trial period of Azure acco
 
 To Chat with the Bot: 
 Add the Bot to your Skype Account using your own account and chat endlessly with it.
+
 More you chat,better the Bot would be.
